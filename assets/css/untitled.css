@@ -9,10 +9,12 @@ html {
 
 #about {
   height: 100%;
+  max-height: auto;
 }
 
 #contact {
   height: 100%;
+  max-height: auto;
 }
 
 section > #inside-section {
